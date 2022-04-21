@@ -7,4 +7,4 @@ _**While those may show up as possible, they'll:
 a) Do nothing.
 b) Throw an error within Discord.**_
 
-> Powered by https://mavriware.me
+> Powered by https://mavri.dev
